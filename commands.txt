@@ -1,0 +1,7 @@
+./build/token-cli action create-asset
+
+./build/token-cli action mint-asset
+
+./build/token-cli key balance
+
+2CjwBayPcyzyNbvRtj8FboRZ8ZTChHCvxVrHGHW1eYo48MMRkZ
